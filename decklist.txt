@@ -1,0 +1,100 @@
+1 Aether Channeler
+1 Aether Vial
+1 Ancestral Recall
+1 Arid Mesa
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Birthing Pod
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Capture of Jingzhou
+1 Charming Prince
+1 City of Brass
+1 Cloudshift
+1 Coiling Oracle
+1 Deceiver Exarch
+1 Eladamri's Call
+1 Eldritch Evolution
+1 Elesh Norn, Mother of Machines
+1 Endurance
+1 Ephemerate
+1 Essence Flux
+1 Eternal Witness
+1 Fable of the Mirror-Breaker
+1 Fblthp, the Lost
+1 Felidar Guardian
+1 Field of the Dead
+1 Finale of Devastation
+1 Flamekin Harbinger
+1 Flickerwisp
+1 Flooded Strand
+1 Force of Negation
+1 Force of Will
+1 Forest
+1 Fury
+1 Ghostly Flicker
+1 Hallowed Fountain
+1 Horizon Canopy
+1 Ice-Fang Coatl
+1 Imperial Recruiter
+1 Island
+1 Jetmir's Garden
+1 Karakas
+1 Karmic Guide
+1 Ketria Triome
+1 Kiki-Jiki, Mirror Breaker
+1 Knight of Autumn
+1 Leyline Binding
+1 Lightning Bolt
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Mountain
+1 Neoform
+1 Noble Hierarch
+1 Oko, Thief of Crowns
+1 Omnath, Locus of Creation
+1 Palace Jailer
+1 Path to Exile
+1 Pestermite
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Prismari Command
+1 Prismatic Ending
+1 Raugrin Triome
+1 Recruiter of the Guard
+1 Restoration Angel
+1 Risen Reef
+1 Sacred Foundry
+1 Saheeli Rai
+1 Savannah
+1 Scalding Tarn
+1 Skyclave Apparition
+1 Solitude
+1 Soulherder
+1 Spara's Headquarters
+1 Steam Vents
+1 Stomping Ground
+1 Subtlety
+1 Swords to Plowshares
+1 Taiga
+1 Teferi, Time Raveler
+1 Temple Garden
+1 Tropical Island
+1 Tundra
+1 Uro, Titan of Nature's Wrath
+1 Venser, Shaper Savant
+1 Verdant Catacombs
+1 Vivien on the Hunt
+1 Volcanic Island
+1 Wall of Blossoms
+1 Wall of Omens
+1 Waterlogged Grove
+1 White Plume Adventurer
+1 Windswept Heath
+1 Wooded Foothills
+1 Wrenn and Six
+1 Zealous Conscripts
+1 Mulldrifter

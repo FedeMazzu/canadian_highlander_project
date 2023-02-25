@@ -1,0 +1,88 @@
+
+ Ancestral Recall,7,Blue,Instant
+
+ Balance,1,White,Sorcery
+
+ Birthing Pod,1,Green,Artifact
+
+ Black Lotus,7,Colorless,Artifact
+
+ Crop Rotation,1,Green,Instant
+
+ Demonic Tutor,4,Black,Sorcery
+
+ Dig Through Time,1,Blue,Instant
+
+ Flash,5,Blue,Instant
+
+ Gifts Ungiven,2,Blue,Instant
+
+ Imperial Seal,1,Black,Sorcery
+
+ Intuition,1,Blue,Instant
+
+ Library of Alexandria,1,Colorless,Land
+
+ Mana Crypt,5,Colorless,Artifact
+
+ Mana Drain,1,Blue,Instant
+
+ Mana Vault,1,Colorless,Artifact
+
+ Merchant Scroll,1,Blue,Sorcery
+
+ Mind Twist,1,Black,Sorcery
+
+ Mox Emerald,3,Colorless,Artifact
+
+ Mox Jet,3,Colorless,Artifact
+
+ Mox Pearl,3,Colorless,Artifact
+
+ Mox Ruby,3,Colorless,Artifact
+
+ Mox Sapphire,3,Colorless,Artifact
+
+ Mystical Tutor,2,Blue,Instant
+
+ Natural Order,3,Green,Sorcery
+
+ Price of Progress,1,Red,Instant
+
+ Sol Ring,4,Colorless,Artifact
+
+ Spellseeker,3,Blue,Creature
+
+ Strip Mine,3,Colorless,Land
+
+ Summoner’s Pact,1,Green,Instant
+
+ Survival of the Fittest,2,Green,Enchantment 
+
+ Tainted Pact,1,Black,Instant
+
+ Thassa’s Oracle,7,Blue,Creature
+
+ Time Vault,7,Colorless,Artifact
+
+ Time Walk,7,Blue,Sorcery
+
+ Tinker,3,Blue,Sorcery
+
+ Tolarian Academy,1,Colorless,Land
+
+ Transmute Artifact,1,Blue,Sorcery
+
+ Treasure Cruise,1,Blue,Sorcery
+
+ True-Name Nemesis,1,Blue,Creature
+
+ Umezawa’s Jitte,2,Colorless,Artifact
+
+ Underworld Breach,3,Red,Enchantment
+
+ Vampiric Tutor,2,Black,Instant
+
+ Wishclaw Talisman,1,Black,Artifact
+
+ Yawgmoth’s Will,1,Black,Sorcery

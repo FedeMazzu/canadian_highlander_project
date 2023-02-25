@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <!--<link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />-->
+  <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+</head>
+
+<body>
+  <div>Type an sample input here</div>
+  <input type="text" id="test-input"/>
+  <button id="submit-button" type="submit" pys-onClick="calc_points">OK</button>
+  <div id="test-output"></div>
+
+  <py-env>
+    - paths:
+        - points.txt
+  </py-env>
+
+  <py-script src = "./canadian_highlander_points_calculator.py">
+  </py-script>
+
+  </body>
+</html>
